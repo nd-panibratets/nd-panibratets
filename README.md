@@ -7,6 +7,8 @@
 * [Email]( nd.panibratets@gmail.com) 
 * [GitHub](https://github.com/nd-panibratets) 
 
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+
 ## <u>Personal Statement</u>
 
 With a goal-oriented mindset and a commitment to delivering high-quality code, I am directing my efforts towards becoming a professional frontend developer with an emphasis on JavaScript. I have foundational knowledge in JavaScript, HTML, and CSS. I am also familiar with Node.js and have experience in computer modeling and 3D model creation. I value teamwork and understand the importance of applying emotional intelligence in a professional environment.
