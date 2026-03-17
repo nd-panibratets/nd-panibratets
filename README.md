@@ -4,14 +4,14 @@
 
 * Location: Bialystok, Poland
 * Phone: <u>+48-884-601-526</u>
-* Email: nd.panibratets@gmail.com
-* GitHub: [nd-panibratets](https://github.com/nd-panibratets) 
+* [Email:]( nd.panibratets@gmail.com) 
+* [GitHub:] [nd-panibratets](https://github.com/nd-panibratets) 
 
 ## <u>Personal Statement</u>
 
 With a goal-oriented mindset and a commitment to delivering high-quality code, I am directing my efforts towards becoming a professional frontend developer with an emphasis on JavaScript. I have foundational knowledge in JavaScript, HTML, and CSS. I am also familiar with Node.js and have experience in computer modeling and 3D model creation. I value teamwork and understand the importance of applying emotional intelligence in a professional environment.
 
-## <u>New experience</u>
+## 🚀 <u>New experience</u>
 
 * Creating educational projects using HTML, CSS, and JavaScript.
 
