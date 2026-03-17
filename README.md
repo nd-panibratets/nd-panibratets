@@ -4,7 +4,7 @@
 
 * Location: Bialystok, Poland
 * Phone: <u>+48-884-601-526</u>
-* Email: nd.panibratets@gmail.com
+* [![Email](https://img.shields.io/badge/Email-nd.panibratets@gmail.com-red)](mailto:nd.panibratets@gmail.com)
 * ![GitHub]: [nd-panibratets](https://github.com/nd-panibratets) 
 
 ## <u>Personal Statement</u>
