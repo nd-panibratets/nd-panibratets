@@ -7,7 +7,7 @@
 * [![Email](https://img.shields.io/badge/Email-nd.panibratets@gmail.com-red)](mailto:nd.panibratets@gmail.com)
 * [![GitHub](https://img.shields.io/badge/GitHub-nd--panibratets-black)](https://github.com/nd-panibratets)
 
-## <u>Personal Statement</u>
+## 🚀 <u>Personal Statement</u>
 
 With a goal-oriented mindset and a commitment to delivering high-quality code, I am directing my efforts towards becoming a professional frontend developer with an emphasis on JavaScript. I have foundational knowledge in JavaScript, HTML, and CSS. I am also familiar with Node.js and have experience in computer modeling and 3D model creation. I value teamwork and understand the importance of applying emotional intelligence in a professional environment.
 
@@ -15,7 +15,7 @@ With a goal-oriented mindset and a commitment to delivering high-quality code, I
 
 * Creating educational projects using ![HTML](https://img.shields.io/badge/HTML-yellow) ![CSS](https://img.shields.io/badge/CSS-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-green)
 
-## <u>Soft skills</u>
+## 🚀 <u>Soft skills</u>
 
 * High level of emotional intelligence
 * Tenacity and diligence in problem-solving
@@ -24,7 +24,7 @@ With a goal-oriented mindset and a commitment to delivering high-quality code, I
 * Good team collaboration
 * Goal-oriented
 
-## <u>Technical skills</u>
+## 🚀 <u>Technical skills</u>
 
 * Foundational skills in JavaScript programming and working knowledge of Node.js
 * Proficient in HTML and CSS. Practical understanding of responsive design
@@ -34,12 +34,12 @@ With a goal-oriented mindset and a commitment to delivering high-quality code, I
 * Familiarity with Git and Visual Studio Code, GitHub
 * Practical knowledge and experience in a manufacturing engineering environment in sphere the manufacturing industry
 
-## <u>Education</u>
+## 🚀 <u>Education</u>
 
 * 2011-2015 – Politechnic College
 * 2015-2017 – National Mining Universiti
 
-## <u>Languages</u>
+## 🚀 <u>Languages</u>
 
 * Ukrainian (Native)
 * Russian (Native)
