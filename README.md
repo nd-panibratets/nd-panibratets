@@ -13,7 +13,7 @@ With a goal-oriented mindset and a commitment to delivering high-quality code, I
 
 ## 🚀 <u>New experience</u>
 
-* Creating educational projects using HTML, CSS, and JavaScript.
+* Creating educational projects using ![HTML](https://img.shields.io/badge/HTML-yellow), ![CSS](https://img.shields.io/badge/CSS-blue), and ![JavaScript](https://img.shields.io/badge/JavaScript-green).
 
 ## <u>Soft skills</u>
 
