@@ -1,47 +1,59 @@
-## 👋 Hi there
 
-## <u>Contacts</u>
+# Hi there! I'm Mykola 👋
 
-* Location: Bialystok, Poland
-* Phone: <u>+48-884-601-526</u>
-* [![Email](https://img.shields.io/badge/Email-nd.panibratets@gmail.com-red)](mailto:nd.panibratets@gmail.com)
-* [![GitHub](https://img.shields.io/badge/GitHub-nd--panibratets-black)](https://github.com/nd-panibratets)
+### Junior Frontend Developer | JavaScript | HTML | CSS
 
-## 🚀 <u>Personal Statement</u>
+I'm an aspiring Frontend Developer based in Poland, focused on building practical web applications and improving my JavaScript skills.
 
-With a goal-oriented mindset and a commitment to delivering high-quality code, I am directing my efforts towards becoming a professional frontend developer with an emphasis on JavaScript. I have foundational knowledge in JavaScript, HTML, and CSS. I am also familiar with Node.js and have experience in computer modeling and 3D model creation. I value teamwork and understand the importance of applying emotional intelligence in a professional environment.
+I have a technical background in industrial equipment maintenance and engineering design. I enjoy solving real-world problems and turning ideas into useful digital tools.
 
-## 🚀 <u>New experience</u>
+## 🛠 Tech Stack
 
-* Creating educational projects using ![HTML](https://img.shields.io/badge/HTML-yellow) ![CSS](https://img.shields.io/badge/CSS-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-green)
+**Frontend:** HTML5, CSS3, JavaScript  
+**Tools:** Git, GitHub, VS Code, Figma  
+**Backend basics:** Node.js  
+**Engineering:** AutoCAD, SolidWorks, SketchUp
 
-## 🚀 <u>Soft skills</u>
+Currently learning and improving my frontend development skills.
 
-* High level of emotional intelligence
-* Tenacity and diligence in problem-solving
-* Quick to learn and eager to expand my technical skillset
-* Capable of receiving feedback constructively
-* Good team collaboration
-* Goal-oriented
+## 🚀 Featured Projects
 
-## 🚀 <u>Technical skills</u>
+### 🔧 CNC Error Catalog
+A web application project for documenting CNC machine errors, troubleshooting procedures, and technical solutions.
 
-* Foundational skills in JavaScript programming and working knowledge of Node.js
-* Proficient in HTML and CSS. Practical understanding of responsive design
-* Experience with 3D modeling using SketchUp and AutoCAD for complex UI/UX projects, or for specific industry websites
-* Basic skills in using Python
-* Experience with SolidWorks: Practical knowledge of this mechanical design automation software
-* Familiarity with Git and Visual Studio Code, GitHub
-* Practical knowledge and experience in a manufacturing engineering environment in sphere the manufacturing industry
+**Status:** In development
 
-## 🚀 <u>Education</u>
+### 🏭 Catalog System
+A JavaScript-based service catalog for organizing and displaying industrial services.
 
-* 2011-2015 – Politechnic College
-* 2015-2017 – National Mining Universiti
+**Technologies:** HTML, CSS, JavaScript  
+**Status:** In development
 
-## 🚀 <u>Languages</u>
+### 🏃 TriCoach
+A Telegram bot for endurance sports coaches and athletes, supporting workout planning, athlete management, and training reports.
 
-* Ukrainian (Native)
-* Russian (Native)
-* Polish 
-* English (A2)
+**Technologies:** JavaScript, Node.js, Telegraf  
+**Status:** In development
+
+### 🧱 Paving Services Website
+A responsive business website project for a paving services company, designed to showcase services, completed work, and contact information.
+
+**Tools:** Figma  
+**Status:** In development
+
+## 🎯 Current Goals
+
+- Improve my JavaScript and frontend development skills
+- Build and publish real-world web applications
+- Learn React through practical projects
+- Start my professional career as a Junior Frontend Developer
+
+## 📫 Contact
+
+- **Location:** Białystok area, Poland
+- **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/nikolay-panibratets-0934752b4/)
+- **GitHub:** [nd-panibratets](https://github.com/nd-panibratets)
+
+---
+
+*Learning by building. Building to solve real problems.*
